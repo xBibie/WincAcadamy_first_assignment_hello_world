@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title> Bibi pagina</title>
+    </head>
+    <h1>Meer over mij</h1>
+
+    <img height=200 src=https://www.fotobehang.com/media/catalog/product/cache/ce339dd56671d6bccbcac0916ee6b376/w/0/w03165-small.jpg>
+
+    
+
+    <body>
+      <p>Drie dingen die ik mooi vind:
+    
+<ol>
+    <li>Hondjes</li>
+    <li>Blauwe lucht met wolkjes</li>
+    <li>Bloemenvelden</li>
+</ol>
+</p>
+
+
+<a href="about.html">About me</a>
+
+
+
+
+<a href="http://www.google.nl" target="_blank"><h3>GOOGLE</h3></a>
+
+
+
+
+</body>
+
+</html>
